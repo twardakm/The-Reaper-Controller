@@ -1,0 +1,36 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>14.0</Version>
+<Cluster>
+<Name>Advanced Connection Settings Cluster</Name>
+<NumElts>7</NumElts>
+<U32>
+<Name>Baud Rate</Name>
+<Val>9600</Val>
+</U32>
+<U16>
+<Name>Data Bits</Name>
+<Val>8</Val>
+</U16>
+<U16>
+<Name>Parity</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Stop Bits</Name>
+<Val>10</Val>
+</U16>
+<U16>
+<Name>Flow Control</Name>
+<Val>0</Val>
+</U16>
+<U8>
+<Name>Termination Char</Name>
+<Val>10</Val>
+</U8>
+<Boolean>
+<Name>Enable Termination Char</Name>
+<Val>1</Val>
+</Boolean>
+</Cluster>
+</LVData>
