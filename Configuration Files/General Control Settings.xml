@@ -1,0 +1,8 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>14.0</Version>
+<U8>
+<Name>Max Speed</Name>
+<Val>87</Val>
+</U8>
+</LVData>
